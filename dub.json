@@ -7,5 +7,4 @@
 		"dtiled": "~>0.2.0",
 		"tkd": {"version":"~master", "path": "submodules/tkd/"}
 	}
-	"lflags": ["-L./", "-rpath=./"],
 }
