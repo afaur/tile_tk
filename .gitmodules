@@ -1,0 +1,3 @@
+[submodule "submodules/tkd"]
+	path = submodules/tkd
+	url = git@github.com:afaur/tkd.git

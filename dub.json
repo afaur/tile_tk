@@ -5,6 +5,7 @@
 	"authors": ["afaur"],
 	"dependencies": {
 		"dtiled": "~>0.2.0",
-		"tkd": "~>1.1.4"
+		"tkd": {"version":"~master", "path": "submodules/tkd/"}
 	}
+	"lflags": ["-L./", "-rpath=./"],
 }
