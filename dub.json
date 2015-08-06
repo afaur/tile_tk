@@ -1,0 +1,10 @@
+{
+	"name": "tile_tk",
+	"description": "A minimal example of using dtiled to draw tiles with tkd.",
+	"copyright": "Copyright © 2015, afaur",
+	"authors": ["afaur"],
+	"dependencies": {
+		"dtiled": "~>0.2.0",
+		"tkd": "~>1.1.4"
+	}
+}
